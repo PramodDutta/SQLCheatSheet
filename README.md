@@ -1,3 +1,26 @@
+What is the Database?
+A collection of data that is organized and stored in a structured manner, allowing for efficient retrieval, manipulation, and analysis.
+
+
+Collection of Related Information
+Phone Book
+Shopping List
+To-do list
+Your Best Friends
+Databases can be stored in different ways
+ON paper
+In your mind
+On A COMPUTER
+This Google Document
+Comment Sections
+Computers can store databases in a better way than anything else.
+E.g. Old bank they kept data in paper What happened?
+Amazon.com -> Products and Credits Cards, Users and Media, images and many more from the last 28 + years. (1994)
+Security, Backup and  Large amount of the database.
+
+It typically consists of tables of information, with each table containing rows (records) and columns (fields) that represent different types of data. 
+
+
 # MySQL Cheat Sheet 
 
 > Help with SQL commands to interact with a MySQL database
